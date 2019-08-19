@@ -1,19 +1,19 @@
 # Learn-Markdown
 
-- __Markdown__ is a *specific markup language*, having its own simple syntax.
+- __Markdown__ is a *lightweight markup language*, having its own simple syntax.
 
 ---
 
-> Important Links 
- - [Learn Markdown](https://www.markdownguide.org/getting-started)
- - [Basics of Markdown](https://www.markdownguide.org/basic-syntax/)
- - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
- - [Cheat sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+- [Learn Markdown](https://www.markdownguide.org/getting-started)
+- [Basics of Markdown](https://www.markdownguide.org/basic-syntax/)
+- [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+- [Cheat sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 
 ---
 
-> Important Repo
+> Important
   - https://github.com/adam-p/markdown-here
+  - Blog - https://github.blog/2015-01-06-how-github-uses-github-to-document-github/
 
 ---
 
