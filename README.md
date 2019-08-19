@@ -4,10 +4,10 @@
 
 ---
 
-- [Learn Markdown](https://www.markdownguide.org/getting-started)
-- [Basics of Markdown](https://www.markdownguide.org/basic-syntax/)
-- [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
-- [Cheat sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+1. [Learn Markdown](https://www.markdownguide.org/getting-started)
+2. [Basics of Markdown](https://www.markdownguide.org/basic-syntax/)
+3. [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+4. [Cheat sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 
 ---
 
@@ -23,7 +23,6 @@
 ---
 
 > Examples of good readme 
-
-> 1. https://www.makeareadme.com/#mind-reading 
-> 2. https://www.google.com/search?client=ubuntu&channel=fs&q=Examples+of+README.md+&ie=utf-8&oe=utf-8
-> 3. https://courses.cs.washington.edu/courses/cse326/02wi/homework/hw5/good-readmes.html
+>  1. https://www.makeareadme.com/#mind-reading 
+>  2. https://www.google.com/search?client=ubuntu&channel=fs&q=Examples+of+README.md+&ie=utf-8&oe=utf-8
+>  3. https://courses.cs.washington.edu/courses/cse326/02wi/homework/hw5/good-readmes.html
