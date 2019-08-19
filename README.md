@@ -7,7 +7,8 @@
 1. [Learn Markdown](https://www.markdownguide.org/getting-started)
 2. [Basics of Markdown](https://www.markdownguide.org/basic-syntax/)
 3. [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
-4. [Cheat sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+4. [Cheat Sheet-General](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+5. [Cheat sheet-Emoji](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 
 ---
 
