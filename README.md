@@ -1,11 +1,12 @@
 # Learn-Markdown
 
+- __Markdown__ is a *specific markup language*, having its own simple syntax.
+
+---
 
 > Basics of Markdown 
 
 1. https://www.markdownguide.org/basic-syntax/
-
----
 
 > Links
 
@@ -14,7 +15,17 @@
 
 ---
 
-> Examples of good readme
+> Important Repo : https://github.com/adam-p/markdown-here
+
+---
+
+> FAQs
+>> Difference between Markup and Markdown?
+  - https://stackoverflow.com/questions/24041/markdown-vs-markup-are-they-related
+  
+---
+
+> Examples of good readme 
 
 1. https://www.makeareadme.com/#mind-reading 
 2. https://www.google.com/search?client=ubuntu&channel=fs&q=Examples+of+README.md+&ie=utf-8&oe=utf-8
