@@ -4,7 +4,8 @@
 
 ---
 
-> Links
+> Important Links 
+
  - [Basics of Markdown](https://www.markdownguide.org/basic-syntax/)
  - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
  - [Cheat sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
@@ -17,7 +18,7 @@
 ---
 
 > FAQs
-  >> [Difference between Markup and Markdown?](https://stackoverflow.com/questions/24041/markdown-vs-markup-are-they-related)
+ - [Difference between Markup and Markdown?](https://stackoverflow.com/questions/24041/markdown-vs-markup-are-they-related)
    
 ---
 
