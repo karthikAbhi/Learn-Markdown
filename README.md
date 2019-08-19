@@ -9,8 +9,6 @@
 3. [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 4. [Cheat sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 
----
-
 > Important
 > - Repo - https://github.com/adam-p/markdown-here
 > - Blog - https://github.blog/2015-01-06-how-github-uses-github-to-document-github/
