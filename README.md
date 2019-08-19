@@ -4,25 +4,21 @@
 
 ---
 
-> Basics of Markdown 
-
-1. https://www.markdownguide.org/basic-syntax/
-
 > Links
-
-1. https://guides.github.com/features/mastering-markdown/
-2. https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
+ - Basics of Markdown - ![Click to follow](https://www.markdownguide.org/basic-syntax/)
+ - Mastering Markdown - https://guides.github.com/features/mastering-markdown/
+ - Cheat sheet - https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
 
 ---
 
-> Important Repo : https://github.com/adam-p/markdown-here
+> Important Repo
+  - https://github.com/adam-p/markdown-here
 
 ---
 
 > FAQs
->> Difference between Markup and Markdown?
-  - https://stackoverflow.com/questions/24041/markdown-vs-markup-are-they-related
-  
+  >> Difference between Markup and Markdown? ![Refer](https://stackoverflow.com/questions/24041/markdown-vs-markup-are-they-related)
+   
 ---
 
 > Examples of good readme 
