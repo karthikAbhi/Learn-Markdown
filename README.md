@@ -5,7 +5,7 @@
 ---
 
 > Important Links 
-
+ - [Learn Markdown](https://www.markdownguide.org/getting-started)
  - [Basics of Markdown](https://www.markdownguide.org/basic-syntax/)
  - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
  - [Cheat sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
