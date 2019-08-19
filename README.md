@@ -15,6 +15,7 @@
 > ### Important 
 > - Repo - https://github.com/adam-p/markdown-here
 > - Blog - https://github.blog/2015-01-06-how-github-uses-github-to-document-github/
+> - Link - https://help.github.com/en/articles/basic-writing-and-formatting-syntax#using-emoji
 
 ---
 
