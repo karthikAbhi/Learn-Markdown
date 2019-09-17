@@ -32,3 +32,4 @@
 
 > Useful Links :star:
   1. https://dillinger.io/
+  2. https://www.markdownguide.org/assets/book/markdown-guide.pdf
